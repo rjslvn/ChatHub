@@ -1,0 +1,10 @@
+openai
+pandas
+nltk
+textblob
+PyPDF2
+termcolor
+tqdm
+prettytable
+faker
+langchain
